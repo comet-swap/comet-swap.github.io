@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "1e68004ed86d0d0e661d",
-    "url": "/static/css/main.727b09d0.chunk.css"
+    "revision": "a5c2744e33b6a0da8711",
+    "url": "/static/css/main.79f969cd.chunk.css"
   },
   {
-    "revision": "1e68004ed86d0d0e661d",
-    "url": "/static/js/main.1e68004e.chunk.js"
+    "revision": "a5c2744e33b6a0da8711",
+    "url": "/static/js/main.a5c2744e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "fc9b815351c113915ded",
-    "url": "/static/css/2.edad2ba7.chunk.css"
+    "revision": "03efe67626216cefd20c",
+    "url": "/static/css/2.1c366d69.chunk.css"
   },
   {
-    "revision": "fc9b815351c113915ded",
-    "url": "/static/js/2.fc9b8153.chunk.js"
+    "revision": "03efe67626216cefd20c",
+    "url": "/static/js/2.03efe676.chunk.js"
   },
   {
     "revision": "ae5dbb373dd26e99789cb1011198bb8c",
@@ -30,6 +30,10 @@ self.__precacheManifest = [
   {
     "revision": "29b2d7cfe381827eadbb449da5b4b256",
     "url": "/static/media/logo.29b2d7cf.png"
+  },
+  {
+    "revision": "d8ed86daf5f608ad559d2e85a283e148",
+    "url": "/static/media/new.d8ed86da.png"
   },
   {
     "revision": "5d516decc4194525f1a2d0792813f85d",
@@ -100,27 +104,27 @@ self.__precacheManifest = [
     "url": "/static/media/node3.dd1267d3.png"
   },
   {
-    "revision": "33f0cf5ffd568c8dbd45e4fba6fa791a",
-    "url": "/static/media/main.33f0cf5f.jpg"
-  },
-  {
     "revision": "040dcee54199bbbf87c59e191da2cb31",
     "url": "/static/media/mobile.040dcee5.jpg"
   },
   {
-    "revision": "52b9151e555d6f7cfdedc1e9dd3d641e",
-    "url": "/static/media/vaultwpen.52b9151e.pdf"
+    "revision": "33f0cf5ffd568c8dbd45e4fba6fa791a",
+    "url": "/static/media/main.33f0cf5f.jpg"
   },
   {
-    "revision": "4acc9a5b78723c7dbe5a7948cdfb147d",
-    "url": "/static/media/vaultwpzh_CN.4acc9a5b.pdf"
+    "revision": "a2fe4ff49d37493fd5cda6bc9b377506",
+    "url": "/static/media/vaultwpen.a2fe4ff4.pdf"
+  },
+  {
+    "revision": "a5f12cd45740d57672e7de73ec84ae34",
+    "url": "/static/media/vaultwpzh_CN.a5f12cd4.pdf"
   },
   {
     "revision": "d1ed6da1687a512991573026d39950a2",
     "url": "/static/media/mainMobile.d1ed6da1.jpg"
   },
   {
-    "revision": "ce4987ac03cae14a99009953818483a8",
+    "revision": "f0d5834b31991d5192240c04ff47c716",
     "url": "/index.html"
   }
 ];
